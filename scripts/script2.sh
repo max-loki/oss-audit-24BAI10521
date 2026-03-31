@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Ishank Mittal
+# Author: Lokesh Kiraula 
 
 PACKAGE="git"
 
